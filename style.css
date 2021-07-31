@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+h1{
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    color: black;
+}
+h2{
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    color: black;
+}
+h3{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    color: blue;
+}

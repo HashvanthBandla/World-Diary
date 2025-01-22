@@ -4,7 +4,7 @@ document.getElementById('feedbackForm').addEventListener('submit', function(even
         name: document.getElementById('name').value,
         feedback: document.getElementById('feedback').value,
     };
-    fetch('https://world-diary-feedback-default-rtdb.firebaseio.com', {
+    fetch('https://world-diary-feedback.web.app/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',

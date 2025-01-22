@@ -21,10 +21,11 @@ h3{
     font-variant: small-caps;
     color: black;
 }
-h4{
+h5{
     text-decoration: underline;
     text-decoration-color: blue;
     font-family: sans-serif;
     font-variant: small-caps;
     color: blue;
+    font-size: medium;
 }
